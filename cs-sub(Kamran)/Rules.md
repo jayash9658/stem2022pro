@@ -5,7 +5,7 @@ As said previously radiology can predict the internal problems and recognize the
 We used machine learning to solve this problem. What we had done was to collect some structured and label data that is weather pneumonia or non-pneumonia patients.
 We used a subranch of machine learning that is convolution neural network.
 
-*display cnn-kam-st22.png*
+*display cnn-kam-st22.gif*
 
 The CNN helped to analyze the edges of pneumonia spots and hence, recognized it.
 Using the above data we trained the machine to analyze the data and hence predict the result weather it is True or False.
