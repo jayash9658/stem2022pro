@@ -15,7 +15,10 @@ You can view the code on :
 
 *display link w/ code in background*
 
-And finally we can see the result of 25 patients out of which only two predictions are wrong and 23 are right *display pnem-res-kam*
+And finally we can see the result of 25 patients out of which only two predictions are wrong and 23 are right 
+
+*display pnem-res-kam*
+
 which accounts for about 
 
 *display big 90%*
